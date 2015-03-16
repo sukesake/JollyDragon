@@ -1,0 +1,4 @@
+D:\GIT\JollyDragon\JollyDragon.Domain\bin\Debug\JollyDragon.Domain.dll
+D:\GIT\JollyDragon\JollyDragon.Domain\bin\Debug\JollyDragon.Domain.pdb
+D:\GIT\JollyDragon\JollyDragon.Domain\obj\Debug\JollyDragon.Domain.dll
+D:\GIT\JollyDragon\JollyDragon.Domain\obj\Debug\JollyDragon.Domain.pdb
